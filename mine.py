@@ -1,5 +1,5 @@
 # Write a line of code that prints "Hello world!".
-print("Hello world!")
+print("hello world!")
 
 
 def hello_world():
